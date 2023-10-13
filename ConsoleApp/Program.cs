@@ -96,8 +96,7 @@
                         break;
 
                     case "0":
-                        
-                        Environment.Exit(0);
+                        return;
                         break;
 
                     default:
